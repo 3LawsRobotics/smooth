@@ -1,0 +1,30 @@
+<map id="include/smooth/compat/ros.hpp" name="include/smooth/compat/ros.hpp">
+<area shape="rect" id="Node000001" title="ROS message compatablity header." alt="" coords="262,5,419,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,204,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,49,156,91,155,86,281,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="228,94,453,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="343,46,343,78,338,78,338,46"/>
+<area shape="rect" id="Node000004" href="$se3_8hpp_source.html" title=" " alt="" coords="477,94,590,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="390,44,491,85,489,90,388,49"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="332,315,416,341"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="514,122,484,143,454,169,430,202,411,237,384,301,379,299,406,235,426,199,451,166,481,139,511,118"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="573,241,686,267"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="544,119,616,227,611,230,539,121"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="710,241,827,267"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="549,118,591,153,646,191,726,232,724,237,643,196,588,157,546,122"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="656,168,758,193"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="564,118,665,159,663,164,562,123"/>
+<area shape="rect" id="Node000009" href="$lie__group__base_8hpp_source.html" title=" " alt="" coords="189,241,321,267"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="477,121,410,139,375,153,342,170,305,199,275,231,271,227,301,195,339,165,373,148,408,134,476,116"/>
+<area shape="rect" id="Node000011" href="$so3_8hpp_source.html" title=" " alt="" coords="465,168,531,193"/>
+<area shape="poly" id="edge11_Node000004_Node000011" title=" " alt="" coords="530,121,513,155,508,153,526,119"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="277,265,342,304,339,309,274,270"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="173,315,308,341"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="255,268,249,300,243,299,250,267"/>
+<area shape="poly" id="edge12_Node000011_Node000005" title=" " alt="" coords="486,196,437,243,392,303,388,300,433,240,482,192"/>
+<area shape="poly" id="edge13_Node000011_Node000006" title=" " alt="" coords="521,192,596,231,593,236,519,196"/>
+<area shape="poly" id="edge14_Node000011_Node000007" title=" " alt="" coords="532,188,709,234,707,240,531,193"/>
+<area shape="poly" id="edge16_Node000011_Node000009" title=" " alt="" coords="465,194,312,239,311,234,463,189"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="447,241,548,267"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="500,194,500,226,495,226,495,194"/>
+</map>

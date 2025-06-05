@@ -1,0 +1,37 @@
+<map id="include/smooth/lie_sparse.hpp" name="include/smooth/lie_sparse.hpp">
+<area shape="rect" id="Node000001" title="Sparse versions of certain Lie group methods." alt="" coords="181,5,307,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,102,104,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,49,96,97,94,92,200,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="128,102,232,127"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,48,200,91,195,88,227,45"/>
+<area shape="rect" id="Node000004" href="$lie__groups_8hpp.html" title="Meta header to include all LieGroup concept model specifications." alt="" coords="256,102,360,127"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,45,292,88,288,91,256,48"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="384,94,538,135"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="294,44,398,85,396,90,292,49"/>
+<area shape="rect" id="Node000005" href="$lie__group_8hpp.html" title=" " alt="" coords="149,256,304,282"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="274,130,196,160,163,174,147,184,143,201,151,217,167,233,188,246,185,251,164,237,147,220,138,202,143,181,161,169,194,155,272,125"/>
+<area shape="rect" id="Node000010" href="$native_8hpp.html" title="Trait specialization to make native Lie groups LieGroups." alt="" coords="158,183,301,208"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="298,129,254,173,250,170,294,126"/>
+<area shape="rect" id="Node000011" href="$rn_8hpp.html" title="Trait specialization to make Eigen vectors LieGroups." alt="" coords="326,183,445,208"/>
+<area shape="poly" id="edge12_Node000004_Node000011" title=" " alt="" coords="321,126,365,170,361,173,318,129"/>
+<area shape="rect" id="Node000013" href="$scalar_8hpp.html" title="Trait specialization to make scalars LieGroups." alt="" coords="470,183,613,208"/>
+<area shape="poly" id="edge15_Node000004_Node000013" title=" " alt="" coords="345,125,492,175,490,180,343,130"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="138,330,190,356"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="218,284,187,320,183,316,214,280"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="184,404,269,429"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="229,282,229,388,224,388,224,282"/>
+<area shape="rect" id="Node000008" href="$manifold_8hpp.html" title=" " alt="" coords="263,330,358,356"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="242,281,286,318,283,322,239,285"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="298,358,254,395,251,391,295,354"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="293,404,427,429"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="321,354,345,389,341,392,316,357"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="231,209,230,241,225,241,226,208"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="359,211,268,252,266,247,357,206"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="328,256,485,282"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="391,208,401,241,396,242,386,209"/>
+<area shape="poly" id="edge17_Node000013_Node000005" title=" " alt="" coords="488,212,295,255,294,250,487,206"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="509,256,573,282"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="544,209,544,241,538,241,538,209"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="598,256,717,282"/>
+<area shape="poly" id="edge18_Node000013_Node000015" title=" " alt="" coords="562,207,626,246,623,250,559,211"/>
+</map>
